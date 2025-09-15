@@ -1,0 +1,78 @@
+feeds:
+- name: War on the Rocks
+  url: https://warontherocks.com/feed/
+  weight: 1.0
+- name: Breaking Defense
+  url: https://breakingdefense.com/feed/
+  weight: 1.0
+- name: UK Parliament Defence Committee (News)
+  url: https://committees.parliament.uk/committee/24/defence-committee/news.rss
+  weight: 1.0
+- name: RealClearDefense
+  url: https://www.realcleardefense.com/rss
+  weight: 0.7
+prefer_domains:
+- rusi.org
+- committees.parliament.uk
+- nao.org.uk
+- ukdefencejournal.org.uk
+- janes.com
+- breakingdefense.com
+- warontherocks.com
+- csis.org
+- rand.org
+- gov.uk
+queries:
+- defence procurement problems UK
+- defense acquisition reform cost overruns schedule delays
+- MOD DE&S contracting barriers to entry innovation adoption
+- defense industrial base capacity procurement lessons learned
+- philosophy of procurement public sector incentives
+exclude_terms:
+- football club
+- gaming
+- crypto
+- air fryer
+keywords:
+  problems:
+  - cost overrun
+  - schedule delay
+  - risk aversion
+  - barriers to entry
+  - innovation adoption
+  - requirements creep
+  - opaque tendering
+  - compliance burden
+  - industrial base
+  - skills shortage
+  - export controls
+  - single-source contracting
+  - bureaucracy
+  - misaligned incentives
+  solutions:
+  - agile procurement
+  - modular open systems
+  - commercial off-the-shelf
+  - pushdown procurement
+  - mission command
+  - challenge-based procurement
+  - multi-year funding
+  - portfolio management
+  - outcome-based contracts
+  - SBIR equivalents
+  - test & evaluation reform
+  - data transparency
+  - acquisition workforce reform
+  - VC co-investment
+  - regulatory sandbox
+scoring:
+  min_chars: 800
+  base_threshold: 0.35
+  prefer_recency_days: 365
+social:
+  twitter_searches:
+  - defence procurement lang:en
+  - defense acquisition reform lang:en
+  reddit_searches:
+  - defence procurement
+  - defense acquisition

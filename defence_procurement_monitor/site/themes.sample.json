@@ -1,0 +1,91 @@
+{
+  "updated": "2025-09-15T20:24:11.514071Z",
+  "themes": [
+    {
+      "name": "cost overrun",
+      "count": 12
+    },
+    {
+      "name": "schedule delay",
+      "count": 11
+    },
+    {
+      "name": "risk aversion",
+      "count": 10
+    },
+    {
+      "name": "barriers to entry",
+      "count": 9
+    },
+    {
+      "name": "innovation adoption",
+      "count": 9
+    },
+    {
+      "name": "industrial base",
+      "count": 8
+    },
+    {
+      "name": "compliance burden",
+      "count": 7
+    },
+    {
+      "name": "portfolio management",
+      "count": 6
+    },
+    {
+      "name": "data transparency",
+      "count": 5
+    },
+    {
+      "name": "multi-year funding",
+      "count": 5
+    },
+    {
+      "name": "modular open systems",
+      "count": 5
+    }
+  ],
+  "top_solutions": [
+    {
+      "text": "Introduce portfolio-level tradeoff reviews quarterly.",
+      "count": 6
+    },
+    {
+      "text": "Publish programme dashboards for external scrutiny.",
+      "count": 5
+    },
+    {
+      "text": "Create time-bound sandboxes for novel tech.",
+      "count": 5
+    },
+    {
+      "text": "Use outcome-based KPIs instead of inputs.",
+      "count": 5
+    },
+    {
+      "text": "Standardise onboarding and pre-clearance.",
+      "count": 4
+    },
+    {
+      "text": "Faster payment rails for small suppliers.",
+      "count": 4
+    },
+    {
+      "text": "Commit multi-year demand signals.",
+      "count": 4
+    },
+    {
+      "text": "Adopt modular architectures for upgrades.",
+      "count": 4
+    },
+    {
+      "text": "Delegate capped authority with fast audit trails.",
+      "count": 4
+    },
+    {
+      "text": "Run challenge\u2011based sprints with users.",
+      "count": 4
+    }
+  ]
+}

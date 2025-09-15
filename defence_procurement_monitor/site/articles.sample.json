@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sample1",
+    "title": "NAO review highlights cost overruns in major equipment programmes",
+    "url": "https://www.nao.org.uk/",
+    "source": "NAO",
+    "date": "2025-09-05T00:00:00+00:00",
+    "summary": "Audit review finds recurring schedule delays and cost growth across several programmes; recommends stronger portfolio management and transparency.",
+    "relevance_score": 0.68,
+    "tags": [
+      "cost overrun",
+      "schedule delay",
+      "portfolio management",
+      "data transparency"
+    ],
+    "solutions": [
+      "Introduce portfolio-level tradeoff reviews quarterly.",
+      "Publish programme dashboards for external scrutiny."
+    ],
+    "content_hash": "sample",
+    "content_length": 2300
+  },
+  {
+    "id": "sample2",
+    "title": "Opinion: Risk aversion is choking innovation in defence procurement",
+    "url": "https://warontherocks.com/",
+    "source": "War on the Rocks",
+    "date": "2025-08-06T00:00:00+00:00",
+    "summary": "Argues incentives push officials to avoid failure rather than deliver capability; suggests regulatory sandboxes and outcome-based contracts.",
+    "relevance_score": 0.59,
+    "tags": [
+      "risk aversion",
+      "innovation adoption",
+      "regulatory sandbox",
+      "outcome-based contracts"
+    ],
+    "solutions": [
+      "Create time-bound sandboxes for novel tech.",
+      "Use outcome-based KPIs instead of inputs."
+    ],
+    "content_hash": "sample",
+    "content_length": 1800
+  },
+  {
+    "id": "sample3",
+    "title": "Barriers to entry: SMEs and the compliance burden",
+    "url": "https://breakingdefense.com/",
+    "source": "Breaking Defense",
+    "date": "2025-07-07T00:00:00+00:00",
+    "summary": "Explores qualification hurdles, security clearances, and payment terms that disadvantage SMEs entering the defence supply chain.",
+    "relevance_score": 0.51,
+    "tags": [
+      "barriers to entry",
+      "compliance burden",
+      "SMEs",
+      "payment terms"
+    ],
+    "solutions": [
+      "Standardise onboarding and pre-clearance.",
+      "Faster payment rails for small suppliers."
+    ],
+    "content_hash": "sample",
+    "content_length": 1600
+  },
+  {
+    "id": "sample4",
+    "title": "Industrial base capacity and skills shortages in shipbuilding",
+    "url": "https://www.csis.org/",
+    "source": "CSIS",
+    "date": "2025-09-03T00:00:00+00:00",
+    "summary": "Notes backlog and workforce gaps; advocates multi\u2011year funding and modular open systems to smooth demand and speed upgrades.",
+    "relevance_score": 0.47,
+    "tags": [
+      "industrial base",
+      "skills shortage",
+      "multi-year funding",
+      "modular open systems"
+    ],
+    "solutions": [
+      "Commit multi-year demand signals.",
+      "Adopt modular architectures for upgrades."
+    ],
+    "content_hash": "sample",
+    "content_length": 2200
+  },
+  {
+    "id": "sample5",
+    "title": "Pushdown procurement: empowering commanders to buy iteratively",
+    "url": "https://example.com/pushdown-procurement",
+    "source": "Concept",
+    "date": "2025-09-12T00:00:00+00:00",
+    "summary": "Case for devolved, outcome\u2011focused purchasing with clear spend authority and lightweight controls to accelerate adoption.",
+    "relevance_score": 0.66,
+    "tags": [
+      "pushdown procurement",
+      "mission command",
+      "innovation adoption",
+      "outcome-based contracts"
+    ],
+    "solutions": [
+      "Delegate capped authority with fast audit trails.",
+      "Run challenge\u2011based sprints with users."
+    ],
+    "content_hash": "sample",
+    "content_length": 1400
+  }
+]
