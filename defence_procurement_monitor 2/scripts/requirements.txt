@@ -1,0 +1,12 @@
+feedparser
+trafilatura>=1.6.3
+beautifulsoup4
+requests
+python-dateutil
+PyYAML
+snscrape
+tqdm
+numpy
+pandas
+scikit-learn
+markdown

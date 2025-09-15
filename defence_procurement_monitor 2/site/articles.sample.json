@@ -1,0 +1,44 @@
+[
+  {
+    "id": "s1",
+    "title": "NAO review highlights cost overruns in major equipment programmes",
+    "url": "https://www.nao.org.uk/",
+    "source": "NAO",
+    "date": "2025-09-03T00:00:00+00:00",
+    "summary": "Audit review finds recurring schedule delays and cost growth; recommends stronger portfolio management and transparency.",
+    "relevance_score": 0.68,
+    "tags": [
+      "cost overrun",
+      "schedule delay",
+      "portfolio management",
+      "data transparency"
+    ],
+    "solutions": [
+      "Quarterly portfolio tradeoffs",
+      "Publish dashboards"
+    ],
+    "content_hash": "x",
+    "content_length": 2500
+  },
+  {
+    "id": "s2",
+    "title": "Opinion: Risk aversion is choking innovation in UK defence",
+    "url": "https://www.rusi.org/",
+    "source": "RUSI",
+    "date": "2025-08-11T00:00:00+00:00",
+    "summary": "Incentives push officials to avoid failure; proposes regulatory sandboxes and outcome-based contracts.",
+    "relevance_score": 0.59,
+    "tags": [
+      "risk aversion",
+      "innovation adoption",
+      "regulatory sandbox",
+      "outcome-based contracts"
+    ],
+    "solutions": [
+      "Time\u2011bound sandboxes",
+      "Outcome\u2011based KPIs"
+    ],
+    "content_hash": "y",
+    "content_length": 1900
+  }
+]
