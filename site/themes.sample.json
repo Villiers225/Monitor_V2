@@ -1,0 +1,39 @@
+{
+  "updated": "2025-09-15T22:11:55.755134Z",
+  "themes": [
+    {
+      "name": "cost overrun",
+      "count": 12
+    },
+    {
+      "name": "schedule delay",
+      "count": 11
+    },
+    {
+      "name": "risk aversion",
+      "count": 10
+    },
+    {
+      "name": "barriers to entry",
+      "count": 9
+    },
+    {
+      "name": "innovation adoption",
+      "count": 9
+    }
+  ],
+  "top_solutions": [
+    {
+      "text": "Quarterly portfolio tradeoffs",
+      "count": 6
+    },
+    {
+      "text": "Publish dashboards",
+      "count": 5
+    },
+    {
+      "text": "Time-bound sandboxes",
+      "count": 5
+    }
+  ]
+}

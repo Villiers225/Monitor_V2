@@ -1,0 +1,103 @@
+feeds:
+- name: UK Parliament Defence Committee (News)
+  url: https://committees.parliament.uk/committee/24/defence-committee/news.rss
+  weight: 1.0
+- name: GOV.UK - Ministry of Defence
+  url: https://www.gov.uk/government/organisations/ministry-of-defence.atom
+  weight: 1.0
+- name: GOV.UK - Defence Equipment & Support (DE&S)
+  url: https://www.gov.uk/government/organisations/defence-equipment-and-support.atom
+  weight: 1.0
+- name: Defence Digital Blog
+  url: https://defencedigital.blog.gov.uk/feed/
+  weight: 0.7
+- name: UK Defence Journal
+  url: https://ukdefencejournal.org.uk/feed/
+  weight: 0.9
+- name: RUSI - Latest Commentary
+  url: https://www.rusi.org/rss.xml
+  weight: 0.8
+prefer_domains:
+- gov.uk
+- committees.parliament.uk
+- ukdefencejournal.org.uk
+- rusi.org
+- ssro.gov.uk
+- nao.org.uk
+- adsgroup.org.uk
+- makeuk.org
+queries:
+- site:gov.uk defence procurement reform MOD DE&S 'Equipment Plan' 2023..2030
+- site:committees.parliament.uk Defence Committee procurement inquiry equipment plan
+  MOD
+- UK defence procurement problems cost overruns schedule delays site:nao.org.uk OR
+  site:gov.uk
+- Single Source Regulations Office SSRO pricing procurement UK
+- Defence and Security Industrial Strategy DSIS acquisition delivery
+- barriers to entry SMEs MOD procurement UK
+- DE&S acquisition reform contracting model UK
+exclude_terms:
+- football club
+- gaming
+- crypto
+keywords:
+  problems:
+  - cost overrun
+  - schedule delay
+  - risk aversion
+  - barriers to entry
+  - innovation adoption
+  - requirements creep
+  - opaque tendering
+  - compliance burden
+  - industrial base
+  - skills shortage
+  - single-source contracting
+  - bureaucracy
+  - misaligned incentives
+  - MOD
+  - Ministry of Defence
+  - DE&S
+  - Equipment Plan
+  - SSRO
+  - Single Source Contract
+  - Crown Commercial Service
+  - Defence Industrial Strategy
+  - Commercial X
+  - Rapid Capabilities Office
+  - Defence Digital
+  - DSTL
+  - AUKUS
+  - shipbuilding
+  - Team Complex Weapons
+  - SDSR
+  - Command Paper
+  - procurement bill
+  - Defence Committee
+  solutions:
+  - agile procurement
+  - modular open systems
+  - commercial off-the-shelf
+  - pushdown procurement
+  - mission command
+  - challenge-based procurement
+  - multi-year funding
+  - portfolio management
+  - outcome-based contracts
+  - SBIR equivalents
+  - test & evaluation reform
+  - data transparency
+  - acquisition workforce reform
+  - VC co-investment
+  - regulatory sandbox
+scoring:
+  min_chars: 800
+  base_threshold: 0.35
+  prefer_recency_days: 365
+social:
+  twitter_searches:
+  - defence procurement lang:en
+  - UK MOD procurement lang:en
+  reddit_searches:
+  - defence procurement
+  - UK defence procurement
